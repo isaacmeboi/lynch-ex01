@@ -6,6 +6,7 @@ public class solution01 {
             Scanner sc = new Scanner(System.in);
             System.out.print("What is your name?");
             name = sc.nextLine(); // reads name from user
+
             System.out.print("It's a pleasure to meet you," + name); // display sum
         }
     }// end method main
